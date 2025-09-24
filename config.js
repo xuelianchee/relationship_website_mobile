@@ -10,7 +10,7 @@ const config = {
   passcodeTitle: "Enter Passcode here", // Title displayed on the passcode entry page
   successMessage: "Yayy!! :)", // Message shown upon successful passcode entry
   redirectMessage: "Redirecting...", // Message displayed while redirecting after success
-  incorrectPasscodeMessage: "Incorrect passcode, hint: 0000", // Message shown for incorrect passcode
+  incorrectPasscodeMessage: "Incorrect passcode, hint: 2903", // Message shown for incorrect passcode
   cancelButtonText: "Cancel", // Text for the cancel button
 
   // 🔍 Question Page
@@ -24,7 +24,7 @@ const config = {
   proTip: 'Pro tip: try searching "How long have we been together?"', // Helpful tip for users
 
   // ⏳ Timer Page
-  anniversaryDate: "2024-10-18", // 📅 Set your anniversary date here (used for the timer)
+  anniversaryDate: "2023-03-29", // 📅 Set your anniversary date here (used for the timer)
   timerTitle: "We've been together for:", // Title displayed on the timer page
   timerMessage: "... and still counting", // Message shown alongside the timer
   timeUnits: {
